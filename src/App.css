@@ -1,0 +1,7 @@
+.containerGame {
+  overflow: hidden;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
